@@ -34,15 +34,15 @@ In this project, I will build an SQL database from scratch, create tables, defin
 ## Clone to Repository
 
 ```HTTP
-git clone 
+git clone https://github.com/M3hrdad-Dehghan/analysing_video_games_by_sql_python.git
 ```
 
 ```SSH
-
+git@github.com:M3hrdad-Dehghan/analysing_video_games_by_sql_python.git
 ```
 
 ```CLI
-
+gh repo clone M3hrdad-Dehghan/analysing_video_games_by_sql_python
 ```
 
 ## Contact
